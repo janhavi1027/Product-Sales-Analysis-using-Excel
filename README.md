@@ -3,9 +3,10 @@
 This project demonstrates a comprehensive Sales Analysis Dashboard created in Microsoft Excel. It provides key insights into sales performance, customer behavior, and revenue trends across different categories, products, and occasions. The dashboard is designed to help stakeholders make informed business decisions efficiently.
 
 # Features
-1) Total Orders and Revenue: View total orders placed and total revenue generated.
-2)Delivery Insights: Analyze average delivery time and customer spending.
-Revenue Analysis:
+Total Orders and Revenue: View total orders placed and total revenue generated.
+Delivery Insights: Analyze average delivery time and customer spending.
+
+# Revenue Analysis:
 By Occasions (e.g., Diwali, Holi, Birthday)
 By Category (e.g., Cakes, Colors, Soft Toys)
 By Months (monthly trends)
